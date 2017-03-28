@@ -4,7 +4,7 @@ A simple shopping basket in Scala, with an idiomatic approach...
 ### Pre-requisites ###
 
 * Java JDK (Oracle or OpenJDK) 1.8.x
-* Scala 2.12.1 (compiled with 2.12.x) (http://www.scala-lang.org/) 
+* Scala 2.12.x+ (compiled with 2.12.1) (http://www.scala-lang.org/) 
 * sbt 0.13.x (http://www.scala-sbt.org/)
 
 ### How do I get set up? ###
