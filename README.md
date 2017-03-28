@@ -1,6 +1,22 @@
 # scalaShoppingBasket
 A simple shopping basket in Scala, with an idiomatic approach...
 
+### Pre-requisites ###
+
+* Java JDK (Oracle or OpenJDK) 1.8.x
+* Scala 2.12.1 (compiled with 2.12.x) (http://www.scala-lang.org/) 
+* sbt 0.13.x (http://www.scala-sbt.org/)
+
+### How do I get set up? ###
+
+* From the project root just run `$ sbt`
+* '> update` or`compile` if you want to compile before running
+* `> run <command or item to add> (eg.: run Apples Milk Bread)
+* CTRL+D to exit the sbt
+
+
+## Problem description
+
 The goods that can be purchased, together with their normal prices are: 
  
 - Soup – 65p per tin 
@@ -31,3 +47,5 @@ If no special offers are applicable the code should output:
 Subtotal: £1.30  
 (No offers available)  
 Total price: £1.30 
+
+#Requires:
